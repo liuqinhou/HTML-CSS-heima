@@ -32,9 +32,9 @@ ___
 [百度](https://www.baidu.com)
 <https://www.baidu.com>
 
-![美女](./static/img1.jpeg)
+![美女](../static/img1.jpeg)
 
-<img src="./static/img1.jpeg" width="50%" >
+<img src="../static/img1.jpeg" width="50%" >
 
 |表头1|表头2|表头1|表头2|
 |:---|---:|:---:|---|
